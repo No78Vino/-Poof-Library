@@ -21,4 +21,4 @@ _**严正声明一点，本开源项目为公益性质，项目内所有资料�
 二是这个项目针对的目标人群，其实是PCG有一定基础的人。Poof! Library可以当作交流的平台。
 
 # 参与人员
-EX-Hard @No78Vino
+[EX-Hard @No78Vino](https://github.com/No78Vino)
