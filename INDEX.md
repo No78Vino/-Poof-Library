@@ -4,7 +4,7 @@
 2. Houdini || 寄生树 @No78Vino
 
 ## Intermediate
-1.
+1. Houdini || 商店标语立牌生成器 @No78Vino
 
 ## Advanced
 1.
