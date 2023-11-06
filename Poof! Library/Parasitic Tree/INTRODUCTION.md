@@ -1,5 +1,5 @@
 # github:@No78Vino
-# Commite Date:2023.11.06
+# Commit Date:2023.11.06
 # DCC：Houdini 19.5 
 # Level: Starter
 
