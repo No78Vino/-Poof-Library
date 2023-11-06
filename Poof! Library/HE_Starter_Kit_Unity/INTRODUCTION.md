@@ -1,4 +1,4 @@
-# gihub:@sideeffects
+# github:@sideeffects
 # Commite Date:2023.11.06
 # DCC：Houdini 18 
 # Level: Starter
